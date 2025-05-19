@@ -1,0 +1,6 @@
+pe\isil\cliente\beans\Cliente.class
+pe\isil\cliente\model\AD_Cliente.class
+pe\isil\cliente\model\ConnectionPool.class
+pe\isil\cliente\controllers\ClienteController.class
+pe\isil\cliente\JAXRSConfiguration.class
+pe\isil\cliente\resources\JavaEE8Resource.class
